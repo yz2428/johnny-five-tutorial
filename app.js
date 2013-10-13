@@ -8,7 +8,7 @@
       // Create a new `photoresistor` hardware instance.
       photoresistor = new five.Sensor({
         pin: "A2",
-        freq: 250
+        freq: 500
       });
 
       // Inject the `sensor` hardware into
