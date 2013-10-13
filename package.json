@@ -1,0 +1,15 @@
+{
+    "name": "photoresistor",
+    "description": "test for collecting light levels with photoresistor sensor",
+    "version": "0.0.1",
+    "author": {
+        "name": "You Zhou <yz2428@columbia.edu>",
+        "email": "yz2428@columbia.edu"
+    },
+    "dependencies": {
+        "johnny-five": ">= 0.7.3"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    }
+}
